@@ -60,3 +60,8 @@ How it works - back-up process:
  - There is certain error handling through text shown on the display
  - At the end of the backup there is a text stating the timestamp of the end of the backup
 
+# Improvements for the next version
+There are obviously several software improvements, but let's stick to the hardware for now:
+ - Use spring connectors to connect the test-pads of the RPi to connect the USB data lines (requires quite an overhaul of the PCB design as the female header has to be moved to the other face of the PCB)
+ - Use connectors for battery, display, etc. (coudn't find anything small enough not to affect the form factor of the RIBM
+ - Move the battery out of the way of the heat dissipation of the RPi, requires slim header connectors to connect the RPi and the PCB and a slight redesign of the enclosure

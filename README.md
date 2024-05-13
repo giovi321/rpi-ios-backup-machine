@@ -18,6 +18,7 @@ Bill of materials:
  - 4x M2.5 screws
  - 4x M2.5 nylon standoffs
  - Epoxy resin or cyanoacrylate glue
+
 ![immagine](https://github.com/giovi321/rpi-ios-backup-machine/assets/6443515/9f952f51-1de0-4623-a86d-08f3c7d90ea5)
 
 ## Electronics

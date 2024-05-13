@@ -11,6 +11,15 @@ It features:
 Tested with iOS 17.4.1 on iPhone 14.
 
 # Hardware components
+## Enclosure / Case
+The case is optimized for 3D printing without any special configuration. It is comprised of two pieces: the container and a lid.
+Bill of materials:
+ - 4x M2.5 threaded inserts
+ - 4x M2.5 screws
+ - 4x M2.5 nylon standoffs
+ - Epoxy resin or cyanoacrylate glue
+![immagine](https://github.com/giovi321/rpi-ios-backup-machine/assets/6443515/9f952f51-1de0-4623-a86d-08f3c7d90ea5)
+
 ## Electronics
 The device features a custom designed circuit with 4 mofsets, a voltage divider and a lithium battery charger module.
 Evertything connects to the circuit, that is placed on top of the RPi Zero fitting perfectly.
@@ -35,13 +44,8 @@ Bill of materials:
  - Raspberry Pi Zero / Raspberry Pi Zero 2
  - MicroSD card large enough to store a full backup of your iOS device
 
-## Enclosure / Case
-The case is optimized for 3D printing without any special configuration. It is comprised of two pieces: the container and a lid.
-Bill of materials:
- - 4x M2.5 threaded inserts
- - 4x M2.5 screws
- - 4x M2.5 nylon standoffs
- - Epoxy resin or cyanoacrylate glue
+![immagine](https://github.com/giovi321/rpi-ios-backup-machine/assets/6443515/2c802494-e9c2-49bf-b19f-a2cdf4a6c33f)
+
 
 # Software
 The backup is performed using libimoibledevice's idevicebackup2.
